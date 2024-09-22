@@ -1,0 +1,17 @@
+{
+  "name": "professionalbackendsetup",
+  "version": "1.0.0",
+  "description": "a backend like professional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "full",
+    "stack"
+  ],
+  "author": "Kaluram Kawchhaya",
+  "license": "ISC"
+}
